@@ -1,0 +1,48 @@
+# jemdoc: menu{MENU}{index.html}
+= Jesse M. Zhang
+
+~~~
+{}{img_left}{jz.jpg}{alt text}{300px}{300px}{}
+[http://ee.stanford.edu/ Department of Electrical Engineering]\n
+[http://stanford.edu/ Stanford University]\n
+Research Interests: Machine Learning \+ Genomics\n
+\[[https://scholar.google.com/citations?user=4jViXZgAAAAJ Google Scholar]\]
+\[[https://github.com/jessemzhang/ GitHub]\]
+\[[https://www.linkedin.com/in/jessemzhang LinkedIn]\]
+~~~
+
+== About Me
+
+I am currently a fourth year PhD student in electrical engineering at Stanford University. I am interested in data-related problems, and ultimately I hope to create something impactful that lies at the intersection of machine learning and genomics. At the moment, I am a member of [https://web.stanford.edu/~dntse/ David Tse]'s group, and my research revolves around analysis of single-cell RNA-Seq datasets and understanding deep learning models[https://jenn.world .]
+
+
+== Publications
+
+[https://arxiv.org/abs/1710.02196 Porcupine Neural Networks: (Almost) All Local Optima are Global]\n
+Soheil Feizi, Hamid Javadi, *Jesse Zhang*, David Tse\n
+*arXiv preprint, 2017*
+
+[https://www.biorxiv.org/content/early/2017/09/21/191254.full.pdf An Interpretable Framework for Clustering
+Single-Cell RNA-Seq Datasets]\n
+*Jesse M. Zhang*, Jue Fan, H. Christina Fan, David Rosenfeld, and David N. Tse\n
+*bioRxiv preprint, 2017*\n
+\[[https://github.com/jessemzhang/dendrosplit Source]\]
+\[[https://www.dropbox.com/s/xinym93bksqd0bp/dendrosplit_poster.pdf?dl=0 Poster]\]
+
+[http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0970-8 Fast and accurate single-cell RNA-seq analysis by clustering of transcript-compatibility counts]\n
+Vasilis Ntranos\*, Govinda M. Kamath\*, *Jesse M. Zhang*\*, Lior Pachter and David N. Tse\n
+\* co-first authors\n
+*Genome Biology, 2016*\n
+\[[https://github.com/govinda-kamath/clustering_on_transcript_compatibility_counts Source]\]
+
+[https://www.ncbi.nlm.nih.gov/pubmed/25482560 Lysine-specific demethylase 1 has dual functions as a major regulator of androgen receptor transcriptional activity]\n
+Changmeng Cai, Housheng Hansen He, Shuai Gao, Sen Chen, Ziyang Yu, Yanfei Gao, Shaoyong Chen, Mei Wei Chen, *Jesse M. Zhang*, Musaddeque Ahmed, Yang Wang, Eric Metzger, Roland Schüle, X. Shirley Liu, Myles Brown, and Steven P. Balk\n
+*Cell Reports, 2014*
+\* equal contribution
+
+
+== Contact Information
+
+- Room 260\nPackard Electrical Engineering Building\n350 Serra Mall\nStanford, CA 94305
+- Email: jessez@stanford.edu\n
+- Personal Website: [https://jessemzhang.com jessemzhang.com]
