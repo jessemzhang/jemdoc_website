@@ -31,7 +31,7 @@ Single-Cell RNA-Seq Datasets]\n
 
 [http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0970-8 Fast and accurate single-cell RNA-seq analysis by clustering of transcript-compatibility counts]\n
 Vasilis Ntranos\*, Govinda M. Kamath\*, *Jesse M. Zhang*\*, Lior Pachter and David N. Tse\n
-\* co-first authors\n
+\*equal contributors\n
 *Genome Biology, 2016*\n
 \[[https://github.com/govinda-kamath/clustering_on_transcript_compatibility_counts Source]\]\[[https://www.dropbox.com/s/977wqrlq0lyteqq/TCC_poster.pdf?dl=0 Poster]\]
 
