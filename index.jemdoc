@@ -13,21 +13,21 @@ Research Interests: Machine Learning \+ Genomics\n
 
 == About Me
 
-I am currently a fourth year PhD student in electrical engineering at Stanford University and an intern at [https://grail.com/ Grail]. I am interested in data-related problems, and ultimately I hope to create something impactful that lies at the intersection of machine learning and genomics. I am a member of [https://web.stanford.edu/~dntse/ David Tse]'s group, and my research revolves around analysis of single-cell RNA-Seq datasets and understanding deep learning models[https://jenn.world .]
+I am currently a fourth year PhD student in electrical engineering at Stanford University and a contractor at [https://grail.com/ Grail]. I am interested in data-related problems, and ultimately I hope to create something impactful that lies at the intersection of machine learning and genomics. I am a member of [https://web.stanford.edu/~dntse/ David Tse]'s group, and my research revolves around analysis of single-cell RNA-Seq datasets and understanding deep learning models[https://jenn.world .]
 
 I have also had the privilege of working for some wonderful organizations during my graduate and undergraduate careers including [http://www.bd.com/en-us/offerings/capabilities/genomics Cellular Research], [https://www.mc10inc.com/ MC10], [https://ll.mit.edu/ MIT Lincoln Laboratory], and [http://www.dana-farber.org/ Dana-Farber]. Please see my [http://stanford.edu/~jessez/Jesse_Zhang_CV.pdf CV] for more details.
 
 == Publications
 
+[https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2092-7 An Interpretable Framework for Clustering
+Single-Cell RNA-Seq Datasets]\n
+*Jesse M. Zhang*, Jue Fan, H. Christina Fan, David Rosenfeld, and David N. Tse\n
+*BMC Bioinformatics, 2018*\n
+\[[https://github.com/jessemzhang/dendrosplit Source]\]\[[https://www.dropbox.com/s/xinym93bksqd0bp/dendrosplit_poster.pdf?dl=0 Poster]\]
+
 [https://arxiv.org/abs/1710.02196 Porcupine Neural Networks: (Almost) All Local Optima are Global]\n
 Soheil Feizi, Hamid Javadi, *Jesse Zhang*, David Tse\n
 *arXiv preprint, 2017*
-
-[https://www.biorxiv.org/content/early/2017/09/21/191254.full.pdf An Interpretable Framework for Clustering
-Single-Cell RNA-Seq Datasets]\n
-*Jesse M. Zhang*, Jue Fan, H. Christina Fan, David Rosenfeld, and David N. Tse\n
-*bioRxiv preprint, 2017*\n
-\[[https://github.com/jessemzhang/dendrosplit Source]\]\[[https://www.dropbox.com/s/xinym93bksqd0bp/dendrosplit_poster.pdf?dl=0 Poster]\]
 
 [http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0970-8 Fast and accurate single-cell RNA-seq analysis by clustering of transcript-compatibility counts]\n
 Vasilis Ntranos\*, Govinda M. Kamath\*, *Jesse M. Zhang*\*, Lior Pachter and David N. Tse\n
