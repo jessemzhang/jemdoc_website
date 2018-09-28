@@ -13,11 +13,15 @@ Research Interests: Machine Learning \+ Genomics\n
 
 == About Me
 
-I am currently a fourth year PhD student in electrical engineering at Stanford University. I am interested in data-related problems, and ultimately I hope to create something impactful that lies at the intersection of machine learning and genomics[https://jenn.world/ .] I am a member of [https://web.stanford.edu/~dntse/ David Tse]'s group, and my research revolves around analysis of single-cell RNA-Seq datasets and understanding deep learning models. During the winter 2016 and spring 2018 quarters, I helped design and create content for a new Stanford course on [http://data-science-sequencing.github.io/ data science for high-throughput sequencing].
+I am a fifth year PhD student in electrical engineering at Stanford University. I am interested in data-related problems, and ultimately I hope to create something impactful that lies at the intersection of machine learning and genomics[https://jenn.world/ .] I am a member of [https://web.stanford.edu/~dntse/ David Tse]'s group, and my research revolves around analysis of single-cell RNA-Seq datasets and understanding deep learning models. During the winter 2016 and spring 2018 quarters, I helped design and create content for a new Stanford course on [http://data-science-sequencing.github.io/ data science for high-throughput sequencing].
 
 I have also had the privilege of working for some wonderful organizations during my graduate and undergraduate careers including [https://grail.com/ Grail], [http://www.bd.com/en-us/offerings/capabilities/genomics Cellular Research], [https://www.mc10inc.com/ MC10], [https://ll.mit.edu/ MIT Lincoln Laboratory], and [http://www.dana-farber.org/ Dana-Farber]. Please see my [http://stanford.edu/~jessez/Jesse_Zhang_CV.pdf CV] for more details.
 
 == Publications
+
+[https://arxiv.org/abs/1710.02196 Porcupine Neural Networks: (Almost) All Local Optima are Global]\n
+Soheil Feizi, Hamid Javadi, *Jesse Zhang*, David Tse\n
+*Advances in Neural Information Processing Systems, 2018*
 
 [https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2092-7 An Interpretable Framework for Clustering
 Single-Cell RNA-Seq Datasets]\n
@@ -28,10 +32,6 @@ Single-Cell RNA-Seq Datasets]\n
 # [https://openreview.net/forum?id=HJBhEMbRb A Spectral Approach to Generalization and Optimization in Neural Networks]\n
 # Farzan Farnia, *Jesse Zhang*, David Tse\n
 # *OpenReview, 2018*
-
-[https://arxiv.org/abs/1710.02196 Porcupine Neural Networks: (Almost) All Local Optima are Global]\n
-Soheil Feizi, Hamid Javadi, *Jesse Zhang*, David Tse\n
-*arXiv preprint, 2017*
 
 [http://genomebiology.biomedcentral.com/articles/10.1186/s13059-016-0970-8 Fast and accurate single-cell RNA-seq analysis by clustering of transcript-compatibility counts]\n
 Vasilis Ntranos\*, Govinda M. Kamath\*, *Jesse M. Zhang*\*, Lior Pachter and David N. Tse\n
