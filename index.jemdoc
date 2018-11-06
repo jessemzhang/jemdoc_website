@@ -19,9 +19,16 @@ I have also had the privilege of working for some wonderful organizations during
 
 == Publications
 
+[https://www.biorxiv.org/content/early/2018/11/05/463265 Towards a post-clustering test for differential expression
+]\n
+*Jesse M. Zhang*, Govinda M. Kamath,  David N. Tse\n
+*bioRxiv preprint, 2018*\n
+\[[https://github.com/jessemzhang/tn_test Source]\]
+
 [https://arxiv.org/abs/1710.02196 Porcupine Neural Networks: (Almost) All Local Optima are Global]\n
 Soheil Feizi, Hamid Javadi, *Jesse Zhang*, David Tse\n
-*Advances in Neural Information Processing Systems, 2018*
+*Advances in Neural Information Processing Systems, 2018*\n
+\[[https://github.com/jessemzhang/porcupine_neural_networks Source]\]
 
 [https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2092-7 An Interpretable Framework for Clustering
 Single-Cell RNA-Seq Datasets]\n
