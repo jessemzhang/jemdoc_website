@@ -22,19 +22,19 @@ I have also had the privilege of working for some wonderful organizations during
 [https://arxiv.org/abs/1811.07457 Generalizable Adversarial Training via Spectral Normalization]\n
 Farzan Farnia\*, *Jesse M. Zhang*\*, David N. Tse\n
 \*equal contributors\n
-*arXiv preprint, 2018*\n
+*International Conference on Learning Representations, 2019*\n
 \[[https://github.com/jessemzhang/dl_spectral_normalization Code]\]
 
 [https://www.biorxiv.org/content/early/2018/11/05/463265 Towards a post-clustering test for differential expression
 ]\n
 *Jesse M. Zhang*, Govinda M. Kamath,  David N. Tse\n
-*bioRxiv preprint, 2018*\n
+*Research in Computational Molecular Biology, 2019*\n
 \[[https://github.com/jessemzhang/tn_test Code]\]
 
 [https://arxiv.org/abs/1710.02196 Porcupine Neural Networks: (Almost) All Local Optima are Global]\n
 Soheil Feizi, Hamid Javadi, *Jesse Zhang*, David Tse\n
 *Advances in Neural Information Processing Systems, 2018*\n
-\[[https://github.com/jessemzhang/porcupine_neural_networks Code]\]
+\[[https://github.com/jessemzhang/porcupine_neural_networks Code]\]\[[https://www.dropbox.com/s/sr711gjl8qw9qyk/NIPS_2018_PNN_v2.pdf?dl=0 Poster]\]
 
 [https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-018-2092-7 An Interpretable Framework for Clustering
 Single-Cell RNA-Seq Datasets]\n
